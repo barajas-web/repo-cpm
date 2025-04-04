@@ -1,0 +1,4 @@
+Hola, este es el primer archivo del repositorio.
+ANTES de añadirlo a git
+y ANTES del primer commit
+DESPUÉS del commit-1

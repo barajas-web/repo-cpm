@@ -1,0 +1,4 @@
+Hola, este es el archivo 2 de Cristina
+ANTES de añadirlo a git
+y DESPUÉS del primer commit
+TB he cambiado cpm-1.txt
